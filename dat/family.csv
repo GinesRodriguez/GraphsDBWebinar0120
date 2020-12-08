@@ -1,0 +1,4 @@
+Person;Relation;Person
+Old Mr. Dashwood;IS_BROTHER_OF;Old Mrs. Dashwood
+Mr. Dashwood;IS_SON_OF;Old Mrs. Dashwood
+Mr. Dashwood;IS_NEPHEW_OF;Old Mr. Dashwood

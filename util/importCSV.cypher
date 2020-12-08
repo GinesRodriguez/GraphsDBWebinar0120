@@ -1,0 +1,1 @@
+LOAD CSV FROM "file:///D/github.com/GraphsDBWebinar0120/dat/family.csv"
