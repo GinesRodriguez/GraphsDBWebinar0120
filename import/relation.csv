@@ -1,7 +1,7 @@
 nameFrom,relation,nameTo
+Mr. Henry Dashwood's first wife,IS_1ST_WIFE_OF,Mr. Henry Dashwood
 Old Mr. Dashwood,IS_UNCLE_OF,Mr. Henry Dashwood
 Old Mrs. Dashwood,IS_MOTHER_OF,Mr. Henry Dashwood
-Mr. Henry Dashwood's first wife,IS_1ST_WIFE_OF,Mr. Henry Dashwood
 Mr. Henry Dasswood's son,IS_SON_OF,Mr. Henry Dashwood
 Mr. Henry Dashwood's second wife,IS_2ND_WIFE_OF,Mr. Henry Dashwood
 Mr. Henry Dashwood's first daughter,IS_DAUGHTER_OF,Mr. Henry Dashwood
