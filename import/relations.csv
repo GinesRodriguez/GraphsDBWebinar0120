@@ -1,10 +1,10 @@
-id,person
-1,Old Mr. Dashwood
-2,Old Mrs. Dashwood
-3,Mr. Henry Dashwood
-4,Mr. Henry Dasswood's first wife
-5,Mr. Henry Dasswood's son
-6,Mr. Henry Dashwood's second wife
-7,Mr. Henry Dashwood's first daughter
-8,Mr. Henry Dashwood's second daughter
-9,Mr. Henry Dashwood's third daughter
+name;relation;name
+Old Mr. Dashwood;IS_UNCLE_OF;Mr. Henry Dashwood
+2,Old Mrs. Dashwood;;
+;;
+4,Mr. Henry Dasswood's first wife;;
+5,Mr. Henry Dasswood's son;;
+6,Mr. Henry Dashwood's second wife;;
+7,Mr. Henry Dashwood's first daughter;;
+8,Mr. Henry Dashwood's second daughter;;
+9,Mr. Henry Dashwood's third daughter;;
