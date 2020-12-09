@@ -1,5 +1,5 @@
-name;relation;name
-Old Mr. Dashwood;IS_UNCLE_OF;Mr. Henry Dashwood
+nameFrom,relation,nameTo
+Old Mr. Dashwood,IS_UNCLE_OF,Mr. Henry Dashwood
 2,Old Mrs. Dashwood;;
 ;;
 4,Mr. Henry Dasswood's first wife;;
