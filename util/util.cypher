@@ -1,5 +1,5 @@
 // Delete all relations
-MATCH (N) - [R] -> (M) DELETE r
+MATCH (N) - [R] -> (M) DELETE R
 
 // Delete all nodes
-MATCH (n) DELETE n
+MATCH (N) DELETE N
