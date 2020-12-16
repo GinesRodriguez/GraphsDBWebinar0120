@@ -1,0 +1,2 @@
+MATCH (N)
+RETURN N;
